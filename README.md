@@ -5,37 +5,42 @@
 - ## AGENDA
 
   - ### PDF:
+    - https://bit.ly/32oT1ro
+
+---
 
 - ## Day 1
-
   - SELVAS AI
     - ppt on request
   - MOSES VAE:
     - slide:
-  - ### Code Links:
-    -
+    - ### Code Links:
 
 ---
 
-- ## Day 2
+- ## Day 2 (김우연 교수님)
 
-  - ### PPTs
-    - Lecture 01:
-    - Lecture 02:
-    - Lecture 03:
-    - Lecture 04:
-    - Lecture 05:
-    - Lecture 06:
+  - ### Lecture 01:
+    - PDF: https://bit.ly/32sqYHI
+  - ### Lecture 02:
+    - PDF: https://bit.ly/3p4gY0S
+  - ### Lecture 03:
+    - PDF: https://bit.ly/32tbmDT
+  - ### Lecture 04:
+    - PDF: https://bit.ly/3pdtfjB
+  - ### Lecture 05:
+    - PDF: https://bit.ly/2U4WGpM
+  - ### Lecture 06:
+    - PDF: https://bit.ly/3p9TNlM
 
 ---
 
 - ## Day 3:
 
-  - Morning Session (Erkhembayar J.):
+  - ## Morning Session (Erkhembayar J.):
 
     - Graph in Drug Discovery
-      - PPT:
+      - PDF:
       - Coding Session:
 
-  - Afternoon Session ()
-  -
+  - ## Afternoon Session ()
