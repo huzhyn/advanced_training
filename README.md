@@ -21,6 +21,7 @@
 - ## Day 2 (김우연 교수님)
 
   - ### Lecture 01:
+    - CADD
     - PDF: https://bit.ly/32sqYHI
   - ### Lecture 02:
     - PDF: https://bit.ly/3p4gY0S
@@ -37,10 +38,23 @@
 
 - ## Day 3:
 
-  - ## Morning Session (Erkhembayar J.):
+  - ### Graphs in Drug Discovery (Erkhembayar J.)
+    - PDF:
+    - Coding Session (Graphs, Node & Edge Featurization):
+      - link:
+  - ### Drug Repositioning (COVID19 SPECIAL) (Erkhembayar J.)
 
-    - Graph in Drug Discovery
-      - PDF:
-      - Coding Session:
+    - PDF:
+    - Coding Session (Knowledge-based Drug Repositioning)
+      - link:
 
-  - ## Afternoon Session ()
+  - ## Coding Session: Molecular Representation Learning (김수현)
+    - PDF:
+    - link:
+  - ## Coding Session: Multimodal Learning for Drug Discovery (김수현)
+    - PDF:
+    - link:
+  - ## Drug Discovery with Omics and Bio Big Data (김완규 교수)
+    - PDF:
+
+---
