@@ -39,9 +39,9 @@
 - ## Day 3:
 
   - ### Graphs in Drug Discovery (에르햄바야르 자담바 책임연구원 - AI센터)
-    - PDF: to be uploaded
+    - PDF: https://bit.ly/3eJG1Sh
     - Coding Session (Graphs, Node & Edge Featurization):
-      - link: to be uploaded
+      - link: https://bit.ly/36oLom8
   - ### Drug Repositioning (COVID19 SPECIAL) (에르햄바야르 자담바 책임연구원 - AI센터)
 
     - PDF: to be uploaded
