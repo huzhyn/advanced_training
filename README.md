@@ -44,7 +44,7 @@
       - link: https://bit.ly/38v46v2
   - ### Drug Repositioning (COVID19 SPECIAL) (에르햄바야르 자담바 책임연구원 - AI센터)
 
-    - PDF: to be uploaded
+    - PDF: https://bit.ly/35eK6L4
     - Coding Session (Knowledge-based Drug Repositioning)
       - link: to be uploaded
 
