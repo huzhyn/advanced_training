@@ -46,7 +46,7 @@
 
     - PDF: https://bit.ly/35eK6L4
     - Coding Session (Knowledge-based Drug Repositioning)
-      - link: to be uploaded
+      - link: https://bit.ly/3lkv387
 
   - ### Coding Session: Molecular Representation Learning (김수헌 연구원 - AI센터)
     - PDF:
