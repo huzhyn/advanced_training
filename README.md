@@ -33,6 +33,8 @@
     - PDF: https://bit.ly/2U4WGpM
   - ### 인공지능 모델의 일반화 성능 높이기 (임재창 박사 - 주식회사 HITs):
     - PDF: https://bit.ly/3p9TNlM
+  - ### Conclusion (김우연 교수 - KAIST):
+    - PDF: https://bit.ly/32xrZOS
 
 ---
 
@@ -47,7 +49,7 @@
 
     - PDF: https://bit.ly/35eK6L4
     - Coding Session (Knowledge-based Drug Repositioning)
-      - link: https://bit.ly/3lkv387
+      - Code link: https://bit.ly/3lkv387
 
   - ### Coding Session: Protein and Molecule Multimodal Representation Learning(김수헌 연구원 - AI센터)
     - PDF: https://bit.ly/3lkps1I
