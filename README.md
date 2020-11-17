@@ -54,7 +54,7 @@
 
   - ### Coding Session: Protein and Molecule Multimodal Representation Learning(김수헌 연구원 - AI센터)
     - PDF: https://bit.ly/3lkps1I
-    - link: https://bit.ly/3loyuL6
+    - Code: https://bit.ly/3loyuL6
   - ### Drug Discovery with Omics and Bio Big Data (김완규 교수 - 이화여대)
     - PDF: https://bit.ly/2GGEBLE
 
