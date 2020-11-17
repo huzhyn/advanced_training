@@ -13,10 +13,10 @@
   - ### VAE(Variational AutoEncoder), GAN(Generative Adversarial Network) (SELVAS AI 최신동향)
     - ppt on request
   - ### MOSES VAE(Variational AutoEncoder) (방준일 연구원 (AI센터)):
-    - PDF: https://github.com/BangJunil/advanced_training/blob/main/Day1/Generative%20Model.pdf
+    - PDF: https://github.com/kaicd/advanced_training/blob/main/Day1/Generative%20Model%20Pro.pdf
     - Codding Session
-      - VAE link: https://github.com/BangJunil/advanced_training/blob/main/Day1/SMILES_VAE.ipynb
-      - AAE link: https://github.com/BangJunil/advanced_training/blob/main/Day1/SMILES_AAE.ipynb
+      - VAE link: https://github.com/kaicd/advanced_training/blob/main/Day1/SMILES_VAE.ipynb
+      - AAE link: https://github.com/kaicd/advanced_training/blob/main/Day1/SMILES_AAE.ipynb
 
 ---
 
