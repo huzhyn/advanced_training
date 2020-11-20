@@ -11,7 +11,7 @@
 
 - ## Day 1
   - ### VAE(Variational AutoEncoder), GAN(Generative Adversarial Network) (SELVAS AI 최신동향)
-    - ppt on request
+    - PDF: https://bit.ly/2IYcQyP
   - ### MOSES VAE(Variational AutoEncoder) (방준일 연구원 (AI센터)):
     - PDF: https://github.com/kaicd/advanced_training/blob/main/Day1/Generative%20Model%20Pro.pdf
     - Codding Session
