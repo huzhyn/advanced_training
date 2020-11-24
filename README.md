@@ -42,7 +42,7 @@
 
   - ### Graphs in Drug Discovery (에르햄바야르 자담바 책임연구원 - AI센터)
 
-    - PDF: updating
+    - PDF: https://bit.ly/2UZvHN0
     - Coding Session (Graphs, Node & Edge Featurization):
       - link: https://bit.ly/3lkv387 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaicd/advanced_training/blob/main/Day3/graph_is_all_you_need_updated.ipynb)
 
