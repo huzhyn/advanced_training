@@ -49,7 +49,7 @@
   - ### Drug Repositioning (COVID19 SPECIAL) (에르햄바야르 자담바 책임연구원 - AI센터)
 
     - Coding Session (Knowledge-based Drug Repositioning)
-      - Code link: updating
+      - Code link: https://bit.ly/3lkv387 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaicd/advanced_training/blob/main/Day3/knowledge_based_dr.ipynb)
 
   - ### Coding Session: Protein and Molecule Multimodal Representation Learning(김수헌 연구원 - AI센터)
     - PDF: https://bit.ly/3nzIjXp
